@@ -1,5 +1,3 @@
-**SOFT2412 Assignment 2 - Scrum Software Development Project**
- 
 --------
 Running
 --------
